@@ -28,18 +28,25 @@ def send_welcome(message):
 
     bot.reply_to(message, "Welcome to the Trading Bot Admin Panel!", reply_markup=markup)
 
+@bot.message_handler(commands=['stats'])
 @bot.message_handler(func=lambda message: message.text == "📊 Stats")
 def send_stats(message):
     try:
-        # Get stats from API
-        response = requests.get("http://localhost:8000/api/v1/admin/dashboard/stats")
+        # Use public stats endpoint to avoid requiring admin auth for the bot
+        response = requests.get("http://localhost:8000/api/v1/stats")
         if response.status_code == 200:
             stats = response.json()
-            text = f"📊 Bot Statistics:\n\nTotal Users: {stats.get('total_users', 0)}\nActive Users: {stats.get('active_users', 0)}\nAdmin Users: {stats.get('admin_users', 0)}\nTotal Deposits: {stats.get('total_deposits', 0)}\nRecent Deposits: {stats.get('recent_deposits', 0)}"
+            text = (
+                f"📊 Bot Statistics:\n\n"
+                f"Total Users: {stats.get('total_users', 0)}\n"
+                f"Total Deposits: {stats.get('total_deposits', 0)}\n"
+                f"Confirmed Deposits: {stats.get('confirmed_deposits', 0)}\n"
+                f"System Status: {stats.get('system_status', 'unknown')}"
+            )
         else:
             text = "Unable to fetch statistics"
-    except:
-        text = "Error connecting to server"
+    except Exception as e:
+        text = f"Error connecting to server: {e}"
 
     bot.reply_to(message, text)
 
@@ -164,7 +171,22 @@ def start_bot(background: bool = True, use_webhook: bool = False, webhook_url: s
 
     If use_webhook is True and webhook_url is provided the bot will set webhook and not poll.
     Otherwise it will start polling in a background thread when background=True.
+
+    Also registers bot command list so users see available commands in Telegram UI.
     """
+    # Register bot commands (visible in Telegram clients)
+    try:
+        commands = [
+            types.BotCommand('start', 'Show welcome and menu'),
+            types.BotCommand('check_wallet', 'Check wallet details by address'),
+            types.BotCommand('connected_wallets', 'List connected wallets'),
+            types.BotCommand('stats', 'Show basic system statistics'),
+        ]
+        bot.set_my_commands(commands)
+        print('Registered bot commands')
+    except Exception as e:
+        print(f'Failed to register bot commands: {e}')
+
     def _poll():
         try:
             print("Bot is running (polling)...")
