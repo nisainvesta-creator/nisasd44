@@ -1,0 +1,185 @@
+
+{
+    "common": {
+        "record": "Register",
+        "swap": "Swap",
+        "withdraw": "Ta ut",
+        "confirm": "Bekräfta",
+        "cancel": "Avbryt"
+    },
+    "header": {
+        "connectWallet": "Anslut plånbok"
+    },
+    "bottomNav": {
+        "home": "Hem",
+        "team": "Lag",
+        "withdrawal": "Uttag",
+        "account": "Konto"
+    },
+    "hero": {
+        "receiveVoucher": "Ta emot kupong",
+        "noPledge": "Ingen pant",
+        "joinAndMine": "Gå med i noden och börja gräva",
+        "receive": "Ta emot",
+        "certificate": "Certifikat",
+        "startMining": "Starta Brytning"
+    },
+    "poolData": {
+        "totalOutput": "Total produktion",
+        "validNodes": "Giltiga noder",
+        "participants": "Deltagare",
+        "userRevenue": "Användarintäkter"
+    },
+    "output": {
+        "title": "Produktionsdetaljer"
+    },
+    "faq": {
+        "title": "Vanliga frågor",
+        "q1": "Vad är AI-BOT likviditetsmolnbrytning?",
+        "a1": "AI-BOT likviditetsmolnbrytning är en ny modell för fjärrbrytning. Användare kan delta i brytning genom att tillhandahålla likviditet via en decentraliserad plattform och tjäna inkomster från transaktionsavgifter och blockbelöningar utan att behöva äga eller underhålla gruvutrustning.",
+        "q2": "Hur går jag med?",
+        "a2": "För att gå med behöver du en kompatibel kryptovalutaplånbok. Anslut din plånbok till vår plattform, godkänn kontraktet och sätt in dina tillgångar i likviditetspoolen för att automatiskt börja bryta.",
+        "q3": "Hur beräknas avkastningen?",
+        "a3": "Avkastningen beräknas baserat på din andel av den totala likviditetspoolen, transaktionsvolymen och de nuvarande blockbelöningarna. Ju högre ditt bidrag till poolen är, desto större blir din andel av vinsten.",
+        "q4": "Översikt över företagets affärspolicy",
+        "a4": "Vår policy är inriktad på transparens, säkerhet och att maximera användarnas avkastning. Vi använder smarta kontrakt för att automatisera processen och säkerställa rättvisa. Alla transaktioner är verifierbara på blockkedjan.",
+        "q5": "Är er gruvverksamhet laglig?",
+        "a5": "Ja, vår verksamhet följer de rättsliga ramarna i de jurisdiktioner där vi verkar. Decentraliserad finans och likviditetsbrytning är innovativa men lagliga finansiella aktiviteter i många delar av världen.",
+        "q6": "Gruvpoolbonus",
+        "a6": "Vi erbjuder olika bonusar, inklusive belöningar för långsiktiga likviditetsleverantörer, hänvisningsbonusar och kampanjer för speciella evenemang för att öka din gruvinkomst.",
+        "q7": "Är tillgångarna säkra?",
+        "a7": "Tillgångssäkerhet är vår högsta prioritet. Vi använder granskade smarta kontrakt och samarbetar med ledande säkerhetsföretag för att skydda likviditetspoolerna. Men som med alla DeFi-protokoll finns det inneboende risker.",
+        "q8": "Hur tar jag ut min inkomst?",
+        "a8": "Du kan ta ut dina intäkter och din initiala likviditet när som helst. Anslut bara din plånbok, navigera till uttagssektionen och bekräfta transaktionen. Medlen kommer att returneras till din plånbok."
+    },
+    "partners": {
+        "whitepaper": "Whitepaper",
+        "title": "Partners",
+        "subtitle": "Våra affärspartners"
+    },
+    "withdrawal": {
+        "tabs": {
+            "swap": "Swap",
+            "withdraw": "Ta ut"
+        },
+        "swapDescription": "Byt mellan dina BNB- och USDT-tillgångar.",
+        "price": "Pris",
+        "withdrawDescription": "Ditt uttag kommer att skickas till din USDT-plånboksadress inom 24 timmar.",
+        "confirmSwap": {
+            "title": "Bekräfta Swap",
+            "line1": "Du är på väg att swappa:",
+            "line2": "För ungefär:",
+            "line3": "Det slutliga beloppet kan variera något."
+        },
+        "confirmWithdraw": {
+            "title": "Bekräfta uttag",
+            "line1": "Du är på väg att ta ut:",
+            "line2": "Medlen kommer att skickas till din anslutna plånbok."
+        },
+        "swapSuccess": "Byte lyckades.",
+        "swapFailed": "Byte misslyckades. Vänligen försök igen.",
+        "withdrawSuccess": "Uttag lyckades.",
+        "withdrawFailed": "Uttag misslyckades. Vänligen försök igen."
+    },
+    "account": {
+        "accumulatedEarnings": "Ackumulerade intäkter",
+        "todaysEarnings": "Dagens intäkter",
+        "yield": "Avkastning",
+        "poolWallet": "Poolplånbok",
+        "walletBalance": "Plånbokssaldo",
+        "total": "Totalt",
+        "underReview": "under granskning",
+        "available": "Tillgänglig"
+    },
+    "certificate": {
+        "pageTitle": "MSB-licensen",
+        "tabs": {
+            "msb": "MSB-licensen",
+            "certificate": "Certifikat"
+        },
+        "msb": {
+            "title": "MSB-licens",
+            "p1": "Kärnmedlemmarna i COIN8 EX MINING kommer alla från ledande internet- och finansföretag. Plattformen har en professionell handelsarkitektur av finansiell kvalitet och en egenutvecklad handelsmotor med hög samtidighet för minnesmatchning. COIN8 EX MINING har erhållit MSB-efterlevnadslicenser i USA och Kanada.",
+            "subTitle1": "Amerikansk MSB-licens",
+            "p2": "MSB-licensen (MoneyServiceBusiness) är en finansiell licens som regleras av det amerikanska finansdepartementet och utfärdas av det. Den reglerar huvudsakligen penningtjänstrelaterade företag och bolag, inklusive digitala valutatransaktioner, virtuella valutatransaktioner och internationella betalningsföretag. Företag som bedriver ovannämnda relaterade verksamheter i USA måste ansöka om en MSB-licens för att kunna verka lagligt.",
+            "queryAddress": "MSB officiell sökadress",
+            "p3": "Plattformen har framgångsrikt erhållit en amerikansk licens. COIN8 EX MINING har alltid betraktat operativ efterlevnad, snabba transaktioner och integritetsskydd som viktiga strategiska riktningar för företagsutveckling. Man har framgångsrikt erhållit dubbla aktiefinansieringslicenser i USA och Kanada, vilket har blivit en viktig milstolpe i den standardiserade driften och globaliseringen av COIN8 EX MINING.",
+            "p4": "COIN8 EX MINING håller alltid fast vid principen om att användaren kommer först och är fast besluten att tillhandahålla de mest effektiva, säkra och högst privata tillgångshanterings- och handelstjänsterna till användare runt om i världen. I framtiden kommer COIN8 EX MINING att fortsätta att implementera en global strategisk layout och hålla fast vid efterlevnadsdrift och utveckling."
+        },
+        "cert": {
+            "title": "Certifikat",
+            "subTitle": "Efterlevnadsdrift, säkerhet och effektivitet",
+            "p1": "COIN8 EX MINING, företaget driver den smarta gruvdriftsmobilapplikationen BOT5.0 och tillhandahåller användare smarta kontraktshandelstransaktioner och relaterade tjänster mellan digitala valutor baserat på denna plattform.",
+            "subTitle2": "Amerikanskt företagscertifikat",
+            "companyName": "Företagsnamn",
+            "companyAddress": "Företagsadress",
+            "queryAddress": "Sökadress för officiell webbplats för amerikanskt företagscertifikat"
+        }
+    },
+    "record": {
+        "pageTitle": "Register",
+        "tabs": {
+            "swap": "Swap",
+            "withdraw": "Uttag",
+            "income": "Inkomst"
+        },
+        "time": "Tid",
+        "received": "Mottaget",
+        "quantity": "Kvantitet",
+        "status": {
+            "title": "Status",
+            "completed": "Slutförd",
+            "pending": "Väntar",
+            "failed": "Misslyckades"
+        },
+        "noRecords": "Inga register tillgängliga",
+        "totalAccumulated": "Totalt ackumulerat"
+    },
+    "currencyInput": {
+        "all": "ALLT",
+        "available": "Tillgänglig"
+    },
+    "customerService": {
+        "title": "Assistent",
+        "description": "Din liveassistent finns alltid till din tjänst",
+        "telegram": "Telegram"
+    },
+    "receiveModal": {
+        "title": "Beskrivning",
+        "description": "Obs: Pantfri gruvdrift kräver inte att du pantsätter din USDT, men kräver att du betalar en gruvarbetaravgift. Se till att du har tillräckligt med BNB i din plånbok för gruvarbetaravgiften."
+    },
+    "team": {
+        "pageTitle": "Mitt Lag",
+        "myAddress": "Min Adress",
+        "myReferralLink": "Min Värvningslänk",
+        "copy": "Kopiera",
+        "copied": "Kopierad!",
+        "totalTeamSize": "Total Lagstorlek",
+        "validMembers": "Giltiga Medlemmar",
+        "totalCommission": "Total Provision",
+        "teamMembers": "Lagmedlemmar",
+        "address": "Adress",
+        "registrationDate": "Registreringsdatum",
+        "noTeamMembers": "Du har inga lagmedlemmar än.",
+        "connectWalletPrompt": "Vänligen anslut din plånbok för att se ditt lag."
+    },
+    "miningReward": {
+        "title": "🚀 Din Gruvbelöning är Klar!",
+        "earned": "Du har framgångsrikt tjänat {0} BNB genom gruvdrift. För att låsa upp din belöning, vänligen sätt in {1} USDT.",
+        "activity": "Kära, det finns en aktivitet här som du kan delta i, med högre ränta och plattformstokens som gåvor. Hur som helst, din tröskel är tillräcklig.",
+        "hint": "💡 När du har satt in kommer din BNB att krediteras omedelbart till din plånbok!"
+    },
+    "error": {
+        "connectWalletFirst": "Anslut din plånbok först.",
+        "receiveFailed": "Det gick inte att ta emot kupongen. Se till att du har tillräckligt med BNB för gasavgifter.",
+        "invalidNumber": "Ange ett giltigt nummer.",
+        "amountGreaterThanZero": "Beloppet måste vara större än 0.",
+        "insufficientBalance": "Otillräckligt saldo.",
+        "enterAmount": "Ange ett belopp.",
+        "noWallet": "Plånbokstillägg hittades inte. Installera en plånbok som MetaMask.",
+        "connectionFailed": "Det gick inte att ansluta plånboken. Försök igen.",
+        "userRejected": "Anslutningsförfrågan avvisades av användaren.",
+        "walletBanned": "Denna plånboksadress har blockerats.",
+        "walletBannedDisconnect": "Din plånbok har blockerats. Du kommer att kopplas bort."
+    }
+}

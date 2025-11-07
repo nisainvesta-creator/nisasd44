@@ -1,0 +1,185 @@
+
+{
+    "common": {
+        "record": "Kayıt",
+        "swap": "Swap",
+        "withdraw": "Çek",
+        "confirm": "Onayla",
+        "cancel": "İptal"
+    },
+    "header": {
+        "connectWallet": "Cüzdanı Bağla"
+    },
+    "bottomNav": {
+        "home": "Anasayfa",
+        "team": "Takım",
+        "withdrawal": "Çekim",
+        "account": "Hesap"
+    },
+    "hero": {
+        "receiveVoucher": "Fiş Al",
+        "noPledge": "Taahhütsüz",
+        "joinAndMine": "Düğüme katılın ve madenciliğe başlayın",
+        "receive": "Al",
+        "certificate": "Sertifika",
+        "startMining": "Madenciliği Başlat"
+    },
+    "poolData": {
+        "totalOutput": "Toplam Çıktı",
+        "validNodes": "Geçerli Düğümler",
+        "participants": "Katılımcılar",
+        "userRevenue": "Kullanıcı Geliri"
+    },
+    "output": {
+        "title": "Çıktı detayları"
+    },
+    "faq": {
+        "title": "Sıkça Sorulan Sorular",
+        "q1": "AI-BOT likidite bulut madenciliği nedir?",
+        "a1": "AI-BOT likidite bulut madenciliği, uzaktan madenciliğin yeni bir modelidir. Kullanıcılar, merkezi olmayan bir platform aracılığıyla likidite sağlayarak madenciliğe katılabilir, işlem ücretlerinden ve blok ödüllerinden gelir elde edebilirler, madencilik donanımına sahip olmaları veya bakımını yapmaları gerekmez.",
+        "q2": "Nasıl katılırım?",
+        "a2": "Katılmak için uyumlu bir kripto para cüzdanına ihtiyacınız var. Cüzdanınızı platformumuza bağlayın, sözleşmeyi onaylayın ve varlıklarınızı likidite havuzuna yatırarak otomatik olarak madenciliğe başlayın.",
+        "q3": "Verim nasıl hesaplanır?",
+        "a3": "Verim, toplam likidite havuzundaki payınıza, işlem hacmine ve mevcut blok ödüllerine göre hesaplanır. Havuza katkınız ne kadar yüksek olursa, kazancınızdaki payınız o kadar büyük olur.",
+        "q4": "Şirketin iş politikasının özeti",
+        "a4": "Politikamız şeffaflık, güvenlik ve kullanıcı getirilerini en üst düzeye çıkarmaya odaklanmıştır. Süreci otomatikleştirmek ve adaleti sağlamak için akıllı sözleşmeler kullanıyoruz. Tüm işlemler blok zincirinde doğrulanabilir.",
+        "q5": "Madencilik işiniz yasal mı?",
+        "a5": "Evet, faaliyetlerimiz faaliyet gösterdiğimiz yargı bölgelerinin yasal çerçevelerine uygundur. Merkezi olmayan finans ve likidite madenciliği, dünyanın birçok yerinde yenilikçi ancak yasal finansal faaliyetlerdir.",
+        "q6": "Madencilik havuzu bonusu",
+        "a6": "Madencilik gelirinizi artırmak için uzun vadeli likidite sağlayıcıları için ödüller, yönlendirme bonusları ve özel etkinlik promosyonları dahil olmak üzere çeşitli bonuslar sunuyoruz.",
+        "q7": "Varlıklar güvende mi?",
+        "a7": "Varlık güvenliği en büyük önceliğimizdir. Likidite havuzlarını korumak için denetlenmiş akıllı sözleşmeler kullanıyor ve önde gelen güvenlik firmalarıyla ortaklık yapıyoruz. Ancak, herhangi bir DeFi protokolünde olduğu gibi, doğal riskler bulunmaktadır.",
+        "q8": "Gelirimi nasıl çekerim?",
+        "a8": "Kazançlarınızı ve başlangıç likiditenizi istediğiniz zaman çekebilirsiniz. Sadece cüzdanınızı bağlayın, çekim bölümüne gidin ve işlemi onaylayın. Fonlar cüzdanınıza iade edilecektir."
+    },
+    "partners": {
+        "whitepaper": "Teknik Rapor",
+        "title": "Ortaklar",
+        "subtitle": "İş ortaklarımız"
+    },
+    "withdrawal": {
+        "tabs": {
+            "swap": "Swap",
+            "withdraw": "Çek"
+        },
+        "swapDescription": "BNB ve USDT varlıklarınız arasında swap yapın.",
+        "price": "Fiyat",
+        "withdrawDescription": "Çekiminiz 24 saat içinde USDT cüzdan adresinize gönderilecektir.",
+        "confirmSwap": {
+            "title": "Swap'ı Onayla",
+            "line1": "Swap yapmak üzeresiniz:",
+            "line2": "Yaklaşık olarak:",
+            "line3": "Nihai miktar biraz değişebilir."
+        },
+        "confirmWithdraw": {
+            "title": "Çekimi Onayla",
+            "line1": "Çekmek üzeresiniz:",
+            "line2": "Fonlar bağlı cüzdanınıza gönderilecektir."
+        },
+        "swapSuccess": "Takas başarılı.",
+        "swapFailed": "Takas başarısız oldu. Lütfen tekrar deneyin.",
+        "withdrawSuccess": "Para çekme başarılı.",
+        "withdrawFailed": "Para çekme başarısız oldu. Lütfen tekrar deneyin."
+    },
+    "account": {
+        "accumulatedEarnings": "Birikmiş kazançlar",
+        "todaysEarnings": "Bugünün kazançları",
+        "yield": "Verim",
+        "poolWallet": "Havuz Cüzdanı",
+        "walletBalance": "Cüzdan Bakiyesi",
+        "total": "Toplam",
+        "underReview": "inceleniyor",
+        "available": "Mevcut"
+    },
+    "certificate": {
+        "pageTitle": "MSB lisansı",
+        "tabs": {
+            "msb": "MSB lisansı",
+            "certificate": "Sertifika"
+        },
+        "msb": {
+            "title": "MSB Lisansı",
+            "p1": "COIN8 EX MINING'in çekirdek üyeleri, en iyi internet ve finans şirketlerinden gelmektedir. Platform, profesyonel finansal düzeyde bir ticaret mimarisine ve kendi geliştirdiği yüksek eşzamanlı bellek eşleştirme ticaret motoruna sahiptir. COIN8 EX MINING, Amerika Birleşik Devletleri ve Kanada'da MSB uyumluluk operasyon lisansları almıştır.",
+            "subTitle1": "ABD MSB lisansı",
+            "p2": "MSB (MoneyServiceBusiness) lisansı, ABD Hazine Bakanlığı tarafından düzenlenen ve verilen bir mali lisanstır. Esas olarak dijital para, sanal para işlemleri ve uluslararası ödeme şirketleri de dahil olmak üzere para hizmetleriyle ilgili işletmeleri ve şirketleri düzenler. Amerika Birleşik Devletleri'nde yukarıda belirtilen ilgili işletmelerle uğraşan şirketlerin yasal olarak faaliyet gösterebilmek için bir MSB lisansı başvurusunda bulunmaları gerekir.",
+            "queryAddress": "MSB resmi sorgu adresi",
+            "p3": "Platform, bir ABD lisansını başarıyla almıştır. COIN8 EX MINING, operasyonel uyumluluğu, hızlı işlemleri ve gizlilik güvenliğini her zaman kurumsal gelişim için önemli stratejik yönler olarak görmüştür. Amerika Birleşik Devletleri ve Kanada'da ikili hisse senedi finansal lisanslarını başarıyla alarak, COIN8 EX MINING'in standartlaştırılmış operasyonunda ve küreselleşmesinde önemli bir kilometre taşı olmuştur.",
+            "p4": "COIN8 EX MINING, her zaman kullanıcıyı ilk sıraya koyar ve dünya çapındaki kullanıcılara en verimli, güvenli ve yüksek düzeyde gizli varlık yönetimi ve ticaret hizmetleri sunmayı taahhüt eder. Gelecekte, COIN8 EX MINING küresel bir stratejik düzen uygulamaya ve uyumlu operasyon ve geliştirmeye bağlı kalmaya devam edecektir."
+        },
+        "cert": {
+            "title": "Sertifika",
+            "subTitle": "Uyumlu operasyon, güvenlik ve verimlilik",
+            "p1": "COIN8 EX MINING, şirket akıllı madencilik BOT5.0 mobil uygulamasını işletir ve bu platforma dayanarak kullanıcılara dijital para birimleri arasında akıllı sözleşmeli madencilik işlemleri ve ilgili hizmetleri sunar.",
+            "subTitle2": "Amerikan şirket sertifikası",
+            "companyName": "Şirket Adı",
+            "companyAddress": "Şirket Adresi",
+            "queryAddress": "ABD şirket sertifikası resmi web sitesi sorgulama adresi"
+        }
+    },
+    "record": {
+        "pageTitle": "Kayıt",
+        "tabs": {
+            "swap": "Swap",
+            "withdraw": "Çekim",
+            "income": "Gelir"
+        },
+        "time": "Zaman",
+        "received": "Alınan",
+        "quantity": "Miktar",
+        "status": {
+            "title": "Durum",
+            "completed": "Tamamlandı",
+            "pending": "Beklemede",
+            "failed": "Başarısız"
+        },
+        "noRecords": "Kayıt bulunamadı",
+        "totalAccumulated": "Toplam Birikim"
+    },
+    "currencyInput": {
+        "all": "TÜMÜ",
+        "available": "Mevcut"
+    },
+    "customerService": {
+        "title": "Asistan",
+        "description": "Canlı asistanınız her zaman hizmetinizdedir",
+        "telegram": "Telegram"
+    },
+    "receiveModal": {
+        "title": "Açıklama",
+        "description": "Not: Taahhütsüz madencilik, USDT'nizi taahhüt etmenizi gerektirmez, ancak bir madenci ücreti ödemenizi gerektirir, lütfen cüzdanınızda madenci ücreti için yeterli BNB olduğundan emin olun."
+    },
+    "team": {
+        "pageTitle": "Takımım",
+        "myAddress": "Adresim",
+        "myReferralLink": "Referans Bağlantım",
+        "copy": "Kopyala",
+        "copied": "Kopyalandı!",
+        "totalTeamSize": "Toplam Takım Büyüklüğü",
+        "validMembers": "Geçerli Üyeler",
+        "totalCommission": "Toplam Komisyon",
+        "teamMembers": "Takım Üyeleri",
+        "address": "Adres",
+        "registrationDate": "Kayıt Tarihi",
+        "noTeamMembers": "Henüz takım üyeniz yok.",
+        "connectWalletPrompt": "Takımınızı görüntülemek için lütfen cüzdanınızı bağlayın."
+    },
+    "miningReward": {
+        "title": "🚀 Madencilik Ödülünüz Hazır!",
+        "earned": "Madencilikten başarıyla {0} BNB kazandınız. Ödülünüzü açmak için lütfen {1} USDT yatırın.",
+        "activity": "Sevgili, burada katılabileceğiniz, daha yüksek faiz ve hediye olarak platform tokenleri olan bir aktivite var. Her neyse, eşik seviyeniz yeterli.",
+        "hint": "💡 Yatırıldıktan sonra BNB'niz hemen cüzdanınıza yatırılacak!"
+    },
+    "error": {
+        "connectWalletFirst": "Lütfen önce cüzdanınızı bağlayın.",
+        "receiveFailed": "Fiş alınamadı. Lütfen gaz ücretleri için yeterli BNB'niz olduğundan emin olun.",
+        "invalidNumber": "Lütfen geçerli bir numara girin.",
+        "amountGreaterThanZero": "Miktar 0'dan büyük olmalıdır.",
+        "insufficientBalance": "Yetersiz bakiye.",
+        "enterAmount": "Lütfen bir miktar girin.",
+        "noWallet": "Cüzdan uzantısı algılanmadı. Lütfen MetaMask gibi bir cüzdan kurun.",
+        "connectionFailed": "Cüzdan bağlantısı başarısız oldu. Lütfen tekrar deneyin.",
+        "userRejected": "Bağlantı isteği kullanıcı tarafından reddedildi.",
+        "walletBanned": "Bu cüzdan adresi yasaklandı.",
+        "walletBannedDisconnect": "Cüzdanınız yasaklandı. Bağlantınız kesilecek."
+    }
+}

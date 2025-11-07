@@ -1,0 +1,188 @@
+
+{
+    "common": {
+        "record": "Record",
+        "withdraw": "Withdraw",
+        "confirm": "Confirm",
+        "cancel": "Cancel",
+        "swap": "Swap",
+        "customerService": "Customer Service"
+    },
+    "header": {
+        "connectWallet": "Connect Wallet"
+    },
+    "bottomNav": {
+        "home": "Home",
+        "team": "Team",
+        "withdrawal": "Withdrawal",
+        "account": "Account"
+    },
+    "hero": {
+        "receiveVoucher": "Receive Voucher",
+        "noPledge": "No pledge",
+        "joinAndMine": "Join the node and start mining",
+        "receive": "Receive",
+        "certificate": "Certificate",
+        "startMining": "Start Mining"
+    },
+    "poolData": {
+        "totalOutput": "Total Output",
+        "validNodes": "Valid Nodes",
+        "participants": "Participants",
+        "userRevenue": "User Revenue"
+    },
+    "output": {
+        "title": "Output details"
+    },
+    "faq": {
+        "title": "Frequently Asked Question",
+        "q1": "What is AI-BOT liquidity cloud mining?",
+        "a1": "AI-BOT liquidity cloud mining is a new model of remote mining. Users can participate in mining by providing liquidity through a decentralized platform, earning income from transaction fees and block rewards without needing to own or maintain mining hardware.",
+        "q2": "How do I join?",
+        "a2": "To join, you need a compatible cryptocurrency wallet. Connect your wallet to our platform, approve the contract, and deposit your assets into the liquidity pool to start mining automatically.",
+        "q3": "How to calculate the yield?",
+        "a3": "Yield is calculated based on your share of the total liquidity pool, the volume of transactions, and the current block rewards. The higher your contribution to the pool, the greater your share of the earnings.",
+        "q4": "Overview of the company's business policy",
+        "a4": "Our policy is focused on transparency, security, and maximizing user returns. We utilize smart contracts to automate the process and ensure fairness. All transactions are verifiable on the blockchain.",
+        "q5": "Is your mining business legal?",
+        "a5": "Yes, our operations comply with the legal frameworks of the jurisdictions in which we operate. Decentralized finance and liquidity mining are innovative but legal financial activities in many parts of the world.",
+        "q6": "Mining pool bonus",
+        "a6": "We offer various bonuses, including rewards for long-term liquidity providers, referral bonuses, and special event promotions to enhance your mining income.",
+        "q7": "Are the assets safe?",
+        "a7": "Asset security is our top priority. We use audited smart contracts and partner with leading security firms to protect the liquidity pools. However, as with any DeFi protocol, there are inherent risks.",
+        "q8": "How to withdraw my income?",
+        "a8": "You can withdraw your earnings and your initial liquidity at any time. Simply connect your wallet, navigate to the withdrawal section, and confirm the transaction. Funds will be returned to your wallet."
+    },
+    "partners": {
+        "whitepaper": "Whitepaper",
+        "title": "Partners",
+        "subtitle": "Our business partners"
+    },
+    "withdrawal": {
+        "tabs": {
+            "swap": "Swap",
+            "withdraw": "Withdraw"
+        },
+        "swapDescription": "Swap between your BNB and USDT assets.",
+        "price": "Price",
+        "withdrawDescription": "Your withdrawal will be sent to your USDT wallet address within 24 hours.",
+        "confirmSwap": {
+            "title": "Confirm Swap",
+            "line1": "You are about to swap:",
+            "line2": "For approximately:",
+            "line3": "The final amount may vary slightly."
+        },
+        "confirmWithdraw": {
+            "title": "Confirm Withdrawal",
+            "line1": "You are about to withdraw:",
+            "line2": "Funds will be sent to your connected wallet."
+        },
+        "swapSuccess": "Swap successful.",
+        "swapFailed": "Swap failed. Please try again.",
+        "withdrawSuccess": "Withdrawal successful.",
+        "withdrawFailed": "Withdrawal failed. Please try again."
+    },
+    "account": {
+        "accumulatedEarnings": "Accumulated earnings",
+        "todaysEarnings": "Today's earnings",
+        "yield": "Yield",
+        "poolWallet": "Pool Wallet",
+        "walletBalance": "Wallet Balance",
+        "total": "Total",
+        "underReview": "under review",
+        "available": "Available"
+    },
+    "certificate": {
+        "pageTitle": "The MSB licence",
+        "tabs": {
+            "msb": "The MSB licence",
+            "certificate": "Certificate"
+        },
+        "msb": {
+            "title": "MSB Licence",
+            "p1": "COIN8 EX MINING core members are all from top Internet and financial companies. The platform has a professional financial-grade trading architecture and a self-developed high-concurrency memory matching trading engine. COIN8 EX MINING has obtained MSB compliance operation licenses in the United States and Canada.",
+            "subTitle1": "US MSB license",
+            "p2": "The MSB (MoneyServiceBusiness) license is a financial license regulated by the U.S. Treasury Department and issued by the U.S. Treasury Department. It mainly regulates money service-related businesses and companies, including digital currency, virtual currency transactions, and international payment companies. Companies engaged in the above-mentioned related businesses in the United States must apply for an MSB license to operate legally.",
+            "queryAddress": "MSB official query address",
+            "p3": "The platform has successfully obtained a US license. COIN8 EX MINING has always regarded operational compliance, fast transactions, and privacy security as important strategic directions for corporate development. It has successfully obtained dual stock financial licenses in the United States and Canada, becoming an important milestone in the standardized operation and globalization of COIN8 EX MINING.",
+            "p4": "COIN8 EX MINING always adheres to user first and is committed to providing the most efficient, secure, and highly private asset management and trading services to users around the world. In the future, COIN8 EX MINING will continue to implement a global strategic layout and adhere to compliant operation and development."
+        },
+        "cert": {
+            "title": "Certificate",
+            "subTitle": "Compliance operation, safety and efficiency",
+            "p1": "COIN8 EX MINING, the company operates the smart mining BOT5.0 mobile application, and provides users with smart contract mining transactions and related services between digital currencies based on this platform.",
+            "subTitle2": "American company certificate",
+            "companyName": "Company Name",
+            "companyAddress": "Company Address",
+            "queryAddress": "US company certificate official website query address"
+        }
+    },
+    "record": {
+        "pageTitle": "Record",
+        "tabs": {
+            "swap": "Swap",
+            "withdraw": "Withdraw",
+            "income": "Income"
+        },
+        "time": "Time",
+        "exchangeQuantity": "Swap Quantity",
+        "received": "Received",
+        "quantity": "Quantity",
+        "status": {
+            "title": "Status",
+            "completed": "Completed",
+            "pending": "Pending",
+            "failed": "Failed"
+        },
+        "noRecords": "No records available",
+        "totalAccumulated": "Total Accumulated"
+    },
+    "currencyInput": {
+        "all": "ALL",
+        "available": "Available"
+    },
+    "customerService": {
+        "title": "Assistant",
+        "description": "Your live assistant is always at your service",
+        "telegram": "Telegram"
+    },
+    "receiveModal": {
+        "title": "Description",
+        "description": "Note: Pledge-free mining does not require pledging your USDT, but does require paying a miner's fee, please make sure you have enough BNB in your wallet for the miner's fee."
+    },
+    "miningReward": {
+        "title": "🚀 Your Mining Reward is Ready!",
+        "earned": "You’ve successfully earned {0} BNB from mining. To unlock your reward, please deposit {1} USDT.",
+        "activity": "Dear, there is an activity here you can join, with higher interest and platform tokens as gifts. Anyway, your threshold is enough.",
+        "hint": "💡 Once deposited, your BNB will be immediately credited to your wallet!"
+    },
+    "team": {
+        "pageTitle": "My Team",
+        "myAddress": "My Address",
+        "myReferralLink": "My Referral Link",
+        "copy": "Copy",
+        "copied": "Copied!",
+        "totalTeamSize": "Total Team Size",
+        "validMembers": "Valid Members",
+        "totalCommission": "Total Commission",
+        "teamMembers": "Team Members",
+        "address": "Address",
+        "registrationDate": "Registration Date",
+        "noTeamMembers": "You don't have any team members yet.",
+        "connectWalletPrompt": "Please connect your wallet to view your team."
+    },
+    "error": {
+        "connectWalletFirst": "Please connect your wallet first.",
+        "connectWalletReminder": "💡 Connect your wallet to unlock mining, trading, and all platform features!",
+        "receiveFailed": "Failed to receive voucher. Please ensure you have sufficient BNB for gas fees.",
+        "invalidNumber": "Please enter a valid number.",
+        "amountGreaterThanZero": "Amount must be greater than 0.",
+        "insufficientBalance": "Insufficient balance.",
+        "enterAmount": "Please enter an amount.",
+        "noWallet": "Wallet extension not detected. Please install a wallet like MetaMask.",
+        "connectionFailed": "Failed to connect wallet. Please try again.",
+        "userRejected": "Connection request was rejected by the user.",
+        "walletBanned": "This wallet address has been banned.",
+        "walletBannedDisconnect": "Your wallet has been banned. You will be disconnected."
+    }
+}

@@ -1,0 +1,185 @@
+
+{
+    "common": {
+        "record": "Aufzeichnung",
+        "swap": "Swap",
+        "withdraw": "Abheben",
+        "confirm": "Bestätigen",
+        "cancel": "Abbrechen"
+    },
+    "header": {
+        "connectWallet": "Wallet verbinden"
+    },
+    "bottomNav": {
+        "home": "Start",
+        "team": "Team",
+        "withdrawal": "Abhebung",
+        "account": "Konto"
+    },
+    "hero": {
+        "receiveVoucher": "Gutschein erhalten",
+        "noPledge": "Keine Verpfändung",
+        "joinAndMine": "Dem Knoten beitreten und mit dem Mining beginnen",
+        "receive": "Erhalten",
+        "certificate": "Zertifikat",
+        "startMining": "Mining starten"
+    },
+    "poolData": {
+        "totalOutput": "Gesamtausgabe",
+        "validNodes": "Gültige Knoten",
+        "participants": "Teilnehmer",
+        "userRevenue": "Benutzereinnahmen"
+    },
+    "output": {
+        "title": "Ausgabedetails"
+    },
+    "faq": {
+        "title": "Häufig gestellte Fragen",
+        "q1": "Was ist AI-BOT Liquiditäts-Cloud-Mining?",
+        "a1": "AI-BOT Liquiditäts-Cloud-Mining ist ein neues Modell des Remote-Minings. Benutzer können am Mining teilnehmen, indem sie über eine dezentrale Plattform Liquidität bereitstellen und Einnahmen aus Transaktionsgebühren und Blockbelohnungen erzielen, ohne Mining-Hardware besitzen oder warten zu müssen.",
+        "q2": "Wie kann ich beitreten?",
+        "a2": "Um beizutreten, benötigen Sie eine kompatible Kryptowährungs-Wallet. Verbinden Sie Ihre Wallet mit unserer Plattform, genehmigen Sie den Vertrag und zahlen Sie Ihre Vermögenswerte in den Liquiditätspool ein, um automatisch mit dem Mining zu beginnen.",
+        "q3": "Wie wird der Ertrag berechnet?",
+        "a3": "Der Ertrag wird basierend auf Ihrem Anteil am gesamten Liquiditätspool, dem Transaktionsvolumen und den aktuellen Blockbelohnungen berechnet. Je höher Ihr Beitrag zum Pool, desto größer Ihr Anteil an den Einnahmen.",
+        "q4": "Überblick über die Geschäftspolitik des Unternehmens",
+        "a4": "Unsere Politik konzentriert sich auf Transparenz, Sicherheit und die Maximierung der Benutzerrenditen. Wir nutzen Smart Contracts, um den Prozess zu automatisieren und Fairness zu gewährleisten. Alle Transaktionen sind auf der Blockchain überprüfbar.",
+        "q5": "Ist Ihr Mining-Geschäft legal?",
+        "a5": "Ja, unsere Operationen entsprechen den rechtlichen Rahmenbedingungen der Gerichtsbarkeiten, in denen wir tätig sind. Dezentrale Finanzen und Liquiditäts-Mining sind in vielen Teilen der Welt innovative, aber legale Finanzaktivitäten.",
+        "q6": "Mining-Pool-Bonus",
+        "a6": "Wir bieten verschiedene Boni an, darunter Belohnungen für langfristige Liquiditätsanbieter, Empfehlungsboni und Sonderaktionsveranstaltungen, um Ihr Mining-Einkommen zu erhöhen.",
+        "q7": "Sind die Vermögenswerte sicher?",
+        "a7": "Die Sicherheit der Vermögenswerte hat für uns oberste Priorität. Wir verwenden geprüfte Smart Contracts und arbeiten mit führenden Sicherheitsfirmen zusammen, um die Liquiditätspools zu schützen. Wie bei jedem DeFi-Protokoll gibt es jedoch inhärente Risiken.",
+        "q8": "Wie kann ich meine Einnahmen abheben?",
+        "a8": "Sie können Ihre Einnahmen und Ihre anfängliche Liquidität jederzeit abheben. Verbinden Sie einfach Ihre Wallet, navigieren Sie zum Abhebungsbereich und bestätigen Sie die Transaktion. Die Gelder werden auf Ihre Wallet zurücküberwiesen."
+    },
+    "partners": {
+        "whitepaper": "Whitepaper",
+        "title": "Partner",
+        "subtitle": "Unsere Geschäftspartner"
+    },
+    "withdrawal": {
+        "tabs": {
+            "swap": "Swap",
+            "withdraw": "Abheben"
+        },
+        "swapDescription": "Tauschen Sie zwischen Ihren BNB- und USDT-Vermögenswerten.",
+        "price": "Preis",
+        "withdrawDescription": "Ihre Abhebung wird innerhalb von 24 Stunden an Ihre USDT-Wallet-Adresse gesendet.",
+        "confirmSwap": {
+            "title": "Swap bestätigen",
+            "line1": "Sie sind dabei zu swappen:",
+            "line2": "Für ungefähr:",
+            "line3": "Der endgültige Betrag kann leicht variieren."
+        },
+        "confirmWithdraw": {
+            "title": "Abhebung bestätigen",
+            "line1": "Sie sind dabei abzuheben:",
+            "line2": "Die Gelder werden an Ihre verbundene Wallet gesendet."
+        },
+        "swapSuccess": "Tausch erfolgreich.",
+        "swapFailed": "Tausch fehlgeschlagen. Bitte versuchen Sie es erneut.",
+        "withdrawSuccess": "Abhebung erfolgreich.",
+        "withdrawFailed": "Abhebung fehlgeschlagen. Bitte versuchen Sie es erneut."
+    },
+    "account": {
+        "accumulatedEarnings": "Kumulierte Einnahmen",
+        "todaysEarnings": "Heutige Einnahmen",
+        "yield": "Ertrag",
+        "poolWallet": "Pool-Wallet",
+        "walletBalance": "Wallet-Guthaben",
+        "total": "Gesamt",
+        "underReview": "wird überprüft",
+        "available": "Verfügbar"
+    },
+    "certificate": {
+        "pageTitle": "Die MSB-Lizenz",
+        "tabs": {
+            "msb": "Die MSB-Lizenz",
+            "certificate": "Zertifikat"
+        },
+        "msb": {
+            "title": "MSB-Lizenz",
+            "p1": "Die Kernmitglieder von COIN8 EX MINING stammen alle von Top-Internet- und Finanzunternehmen. Die Plattform verfügt über eine professionelle Handelsarchitektur auf Finanzniveau und eine selbst entwickelte Hochleistungs-Speicher-Matching-Handels-Engine. COIN8 EX MINING hat MSB-Compliance-Betriebslizenzen in den Vereinigten Staaten und Kanada erhalten.",
+            "subTitle1": "US-MSB-Lizenz",
+            "p2": "Die MSB-Lizenz (MoneyServiceBusiness) ist eine Finanzlizenz, die vom US-Finanzministerium reguliert und ausgestellt wird. Sie reguliert hauptsächlich geldbezogene Geschäfte und Unternehmen, einschließlich digitaler Währungen, virtueller Währungstransaktionen und internationaler Zahlungsunternehmen. Unternehmen, die in den oben genannten verwandten Geschäftsbereichen in den Vereinigten Staaten tätig sind, müssen eine MSB-Lizenz beantragen, um legal tätig zu sein.",
+            "queryAddress": "Offizielle MSB-Abfrageadresse",
+            "p3": "Die Plattform hat erfolgreich eine US-Lizenz erhalten. COIN8 EX MINING hat die betriebliche Compliance, schnelle Transaktionen und den Schutz der Privatsphäre stets als wichtige strategische Richtungen für die Unternehmensentwicklung angesehen. Sie hat erfolgreich doppelte Aktienfinanzlizenzen in den Vereinigten Staaten und Kanada erhalten und ist damit ein wichtiger Meilenstein im standardisierten Betrieb und der Globalisierung von COIN8 EX MINING.",
+            "p4": "COIN8 EX MINING hält sich immer an den Grundsatz „Benutzer zuerst“ und ist bestrebt, Benutzern auf der ganzen Welt die effizientesten, sichersten und privatesten Vermögensverwaltungs- und Handelsdienstleistungen anzubieten. In Zukunft wird COIN8 EX MINING weiterhin eine globale strategische Ausrichtung umsetzen und sich an einen konformen Betrieb und eine konforme Entwicklung halten."
+        },
+        "cert": {
+            "title": "Zertifikat",
+            "subTitle": "Konformer Betrieb, Sicherheit und Effizienz",
+            "p1": "COIN8 EX MINING, das Unternehmen betreibt die Smart-Mining-Mobilanwendung BOT5.0 und bietet Benutzern auf dieser Plattform Smart-Contract-Mining-Transaktionen und damit verbundene Dienstleistungen zwischen digitalen Währungen.",
+            "subTitle2": "Amerikanisches Firmenzertifikat",
+            "companyName": "Firmenname",
+            "companyAddress": "Firmenadresse",
+            "queryAddress": "Offizielle Website-Abfrageadresse für US-Firmenzertifikate"
+        }
+    },
+    "record": {
+        "pageTitle": "Aufzeichnung",
+        "tabs": {
+            "swap": "Swap",
+            "withdraw": "Abhebung",
+            "income": "Einkommen"
+        },
+        "time": "Zeit",
+        "received": "Erhalten",
+        "quantity": "Menge",
+        "status": {
+            "title": "Status",
+            "completed": "Abgeschlossen",
+            "pending": "Ausstehend",
+            "failed": "Fehlgeschlagen"
+        },
+        "noRecords": "Keine Aufzeichnungen verfügbar",
+        "totalAccumulated": "Insgesamt angesammelt"
+    },
+    "currencyInput": {
+        "all": "ALLES",
+        "available": "Verfügbar"
+    },
+    "customerService": {
+        "title": "Assistent",
+        "description": "Ihr Live-Assistent ist immer für Sie da",
+        "telegram": "Telegram"
+    },
+    "receiveModal": {
+        "title": "Beschreibung",
+        "description": "Hinweis: Das Mining ohne Verpfändung erfordert keine Verpfändung Ihrer USDT, erfordert jedoch die Zahlung einer Miner-Gebühr. Bitte stellen Sie sicher, dass Sie genügend BNB in Ihrer Wallet für die Miner-Gebühr haben."
+    },
+    "team": {
+        "pageTitle": "Mein Team",
+        "myAddress": "Meine Adresse",
+        "myReferralLink": "Mein Empfehlungslink",
+        "copy": "Kopieren",
+        "copied": "Kopiert!",
+        "totalTeamSize": "Gesamtteamgröße",
+        "validMembers": "Gültige Mitglieder",
+        "totalCommission": "Gesamtprovision",
+        "teamMembers": "Teammitglieder",
+        "address": "Adresse",
+        "registrationDate": "Registrierungsdatum",
+        "noTeamMembers": "Sie haben noch keine Teammitglieder.",
+        "connectWalletPrompt": "Bitte verbinden Sie Ihre Wallet, um Ihr Team anzuzeigen."
+    },
+    "miningReward": {
+        "title": "🚀 Ihre Mining-Belohnung ist bereit!",
+        "earned": "Sie haben erfolgreich {0} BNB durch Mining verdient. Um Ihre Belohnung freizuschalten, hinterlegen Sie bitte {1} USDT.",
+        "activity": "Liebe, hier gibt es eine Aktivität, der Sie beitreten können, mit höheren Zinsen und Plattform-Token als Geschenke. Wie auch immer, Ihr Schwellenwert reicht aus.",
+        "hint": "💡 Sobald hinterlegt, wird Ihr BNB sofort Ihrem Wallet gutgeschrieben!"
+    },
+    "error": {
+        "connectWalletFirst": "Bitte verbinden Sie zuerst Ihre Wallet.",
+        "receiveFailed": "Gutschein konnte nicht empfangen werden. Bitte stellen Sie sicher, dass Sie genügend BNB für die Gasgebühren haben.",
+        "invalidNumber": "Bitte geben Sie eine gültige Zahl ein.",
+        "amountGreaterThanZero": "Der Betrag muss größer als 0 sein.",
+        "insufficientBalance": "Unzureichendes Guthaben.",
+        "enterAmount": "Bitte geben Sie einen Betrag ein.",
+        "noWallet": "Wallet-Erweiterung nicht erkannt. Bitte installieren Sie eine Wallet wie MetaMask.",
+        "connectionFailed": "Verbindung zur Wallet fehlgeschlagen. Bitte versuchen Sie es erneut.",
+        "userRejected": "Verbindungsanfrage vom Benutzer abgelehnt.",
+        "walletBanned": "Diese Wallet-Adresse wurde gesperrt.",
+        "walletBannedDisconnect": "Ihre Wallet wurde gesperrt. Sie werden getrennt."
+    }
+}

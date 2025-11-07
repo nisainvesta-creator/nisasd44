@@ -1,0 +1,185 @@
+
+{
+    "common": {
+        "record": "记录",
+        "swap": "交换",
+        "withdraw": "提取",
+        "confirm": "确认",
+        "cancel": "取消"
+    },
+    "header": {
+        "connectWallet": "连接钱包"
+    },
+    "bottomNav": {
+        "home": "首页",
+        "team": "团队",
+        "withdrawal": "提取",
+        "account": "我的"
+    },
+    "hero": {
+        "receiveVoucher": "领取凭证",
+        "noPledge": "无质押",
+        "joinAndMine": "加入节点，开始挖矿",
+        "receive": "领取",
+        "certificate": "证书",
+        "startMining": "开始挖矿"
+    },
+    "poolData": {
+        "totalOutput": "总产出",
+        "validNodes": "有效节点",
+        "participants": "参与者",
+        "userRevenue": "用户收益"
+    },
+    "output": {
+        "title": "产出详情"
+    },
+    "faq": {
+        "title": "常见问题",
+        "q1": "什么是AI-BOT流动性云挖矿？",
+        "a1": "AI-BOT流动性云挖矿是一种新型的远程挖矿模式。用户可以通过去中心化平台提供流动性来参与挖矿，从而从交易费和区块奖励中获得收入，而无需拥有或维护挖矿硬件。",
+        "q2": "我如何加入？",
+        "a2": "要加入，您需要一个兼容的加密货币钱包。将您的钱包连接到我们的平台，批准合约，并将您的资产存入流动性池以自动开始挖矿。",
+        "q3": "如何计算收益？",
+        "a3": "收益是根据您在总流动性池中的份额、交易量和当前的区块奖励来计算的。您对池的贡献越大，您获得的收益份额就越大。",
+        "q4": "公司业务政策概述",
+        "a4": "我们的政策侧重于透明度、安全性和最大化用户回报。我们利用智能合约来自动化流程并确保公平。所有交易都可以在区块链上验证。",
+        "q5": "你们的挖矿业务合法吗？",
+        "a5": "是的，我们的运营符合我们运营所在司法管辖区的法律框架。去中心化金融和流动性挖矿在世界许多地方都是创新但合法的金融活动。",
+        "q6": "矿池奖励",
+        "a6": "我们提供各种奖励，包括对长期流动性提供者的奖励、推荐奖励和特殊活动促销，以增加您的挖矿收入。",
+        "q7": "资产安全吗？",
+        "a7": "资产安全是我们的首要任务。我们使用经过审计的智能合约，并与领先的安全公司合作保护流动性池。然而，与任何DeFi协议一样，存在固有风险。",
+        "q8": "如何提取我的收入？",
+        "a8": "您可以随时提取您的收益和初始流动性。只需连接您的钱包，导航到提取部分，并确认交易。资金将返回到您的钱包。"
+    },
+    "partners": {
+        "whitepaper": "白皮书",
+        "title": "合作伙伴",
+        "subtitle": "我们的商业伙伴"
+    },
+    "withdrawal": {
+        "tabs": {
+            "swap": "交换",
+            "withdraw": "提取"
+        },
+        "swapDescription": "在您的BNB和USDT资产之间进行交换。",
+        "price": "价格",
+        "withdrawDescription": "您的提款将在24小时内发送到您的USDT钱包地址。",
+        "confirmSwap": {
+            "title": "确认交换",
+            "line1": "您将要交换：",
+            "line2": "大约可得：",
+            "line3": "最终金额可能会有轻微变化。"
+        },
+        "confirmWithdraw": {
+            "title": "确认提取",
+            "line1": "您将要提取：",
+            "line2": "资金将发送到您连接的钱包。"
+        },
+        "swapSuccess": "交换成功。",
+        "swapFailed": "交换失败。请重试。",
+        "withdrawSuccess": "提款成功。",
+        "withdrawFailed": "提款失败。请重试。"
+    },
+    "account": {
+        "accumulatedEarnings": "累计收益",
+        "todaysEarnings": "今日收益",
+        "yield": "收益率",
+        "poolWallet": "矿池钱包",
+        "walletBalance": "钱包余额",
+        "total": "总计",
+        "underReview": "审核中",
+        "available": "可用"
+    },
+    "certificate": {
+        "pageTitle": "MSB许可证",
+        "tabs": {
+            "msb": "MSB许可证",
+            "certificate": "证书"
+        },
+        "msb": {
+            "title": "MSB许可证",
+            "p1": "COIN8 EX MINING核心成员均来自顶级互联网和金融公司。平台拥有专业的金融级交易架构和自主研发的高并发内存撮合交易引擎。COIN8 EX MINING已在美国和加拿大获得MSB合规运营牌照。",
+            "subTitle1": "美国MSB牌照",
+            "p2": "MSB（MoneyServiceBusiness）牌照是由美国财政部监管并颁发的金融牌照。主要监管货币服务相关业务和公司，包括数字货币、虚拟货币交易以及国际支付公司。在美国从事上述相关业务的公司必须申请MSB牌照才能合法经营。",
+            "queryAddress": "MSB官方查询地址",
+            "p3": "平台已成功获得美国牌照。COIN8 EX MINING始终将合规运营、快速交易和隐私安全视为企业发展的重要战略方向。已成功获得美国和加拿大双重证券金融牌照，成为COIN8 EX MINING规范化运营和全球化的重要里程碑。",
+            "p4": "COIN8 EX MINING始终坚持用户至上，致力于为全球用户提供最高效、安全、高度隐私的资产管理和交易服务。未来，COIN8 EX MINING将继续实施全球战略布局，坚持合规运营和发展。"
+        },
+        "cert": {
+            "title": "证书",
+            "subTitle": "合规运营，安全高效",
+            "p1": "COIN8 EX MINING，公司运营智能挖矿BOT5.0移动应用，并基于此平台为用户提供数字货币之间的智能合约挖矿交易及相关服务。",
+            "subTitle2": "美国公司证书",
+            "companyName": "公司名称",
+            "companyAddress": "公司地址",
+            "queryAddress": "美国公司证书官网查询地址"
+        }
+    },
+    "record": {
+        "pageTitle": "记录",
+        "tabs": {
+            "swap": "交换",
+            "withdraw": "提取",
+            "income": "收益"
+        },
+        "time": "时间",
+        "received": "收到",
+        "quantity": "数量",
+        "status": {
+            "title": "状态",
+            "completed": "已完成",
+            "pending": "处理中",
+            "failed": "失败"
+        },
+        "noRecords": "暂无记录",
+        "totalAccumulated": "累计总额"
+    },
+    "currencyInput": {
+        "all": "全部",
+        "available": "可用"
+    },
+    "customerService": {
+        "title": "助理",
+        "description": "您的在线助理随时为您服务",
+        "telegram": "电报"
+    },
+    "receiveModal": {
+        "title": "说明",
+        "description": "注意：无质押挖矿不需要质押您的USDT，但需要支付矿工费，请确保您的钱包中有足够的BNB用于支付矿工费。"
+    },
+    "team": {
+        "pageTitle": "我的团队",
+        "myAddress": "我的地址",
+        "myReferralLink": "我的推荐链接",
+        "copy": "复制",
+        "copied": "已复制！",
+        "totalTeamSize": "团队总人数",
+        "validMembers": "有效成员",
+        "totalCommission": "总佣金",
+        "teamMembers": "团队成员",
+        "address": "地址",
+        "registrationDate": "注册日期",
+        "noTeamMembers": "您还没有任何团队成员。",
+        "connectWalletPrompt": "请连接您的钱包以查看您的团队。"
+    },
+    "miningReward": {
+        "title": "🚀 您的挖矿奖励已准备就绪！",
+        "earned": "您已成功通过挖矿赚取 {0} BNB。要解锁您的奖励，请存入 {1} USDT。",
+        "activity": "亲爱的，这里有一个您可以参与的活动，具有更高的利息和平台代币作为礼物。无论如何，您的门槛足够。",
+        "hint": "💡 存入后，您的BNB将立即记入您的钱包！"
+    },
+    "error": {
+        "connectWalletFirst": "请先连接您的钱包。",
+        "receiveFailed": "领取凭证失败。请确保您有足够的BNB支付燃料费。",
+        "invalidNumber": "请输入有效数字。",
+        "amountGreaterThanZero": "金额必须大于0。",
+        "insufficientBalance": "余额不足。",
+        "enterAmount": "请输入金额。",
+        "noWallet": "未检测到钱包扩展。请安装像MetaMask这样的钱包。",
+        "connectionFailed": "连接钱包失败。请重试。",
+        "userRejected": "用户拒绝了连接请求。",
+        "walletBanned": "此钱包地址已被禁用。",
+        "walletBannedDisconnect": "您的钱包已被禁用。您将被断开连接。"
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "ai-bnb",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/copy-locales.mjs && vite build",
+    "preview": "vite preview",
+    "serve-dist": "vite preview --port 5001",
+    "cli": "node cli/add-balance.js"
+  },
+  "dependencies": {
+    "@reown/appkit": "^1.8.13",
+    "@reown/appkit-adapter-wagmi": "^1.8.13",
+    "@tanstack/react-query": "^5.90.7",
+    "@wagmi/core": "^2.19.2",
+    "better-sqlite3": "^12.4.1",
+    "buffer": "6.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "viem": "^2.38.6",
+    "wagmi": "^2.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@vitejs/plugin-react": "^5.1.0",
+    "rollup": "^4.52.5",
+    "typescript": "~5.8.2",
+    "vite": "^6.4.1"
+  }
+}
