@@ -74,7 +74,7 @@ def get_public_stats(db: Session = Depends(get_db)):
     """Get basic public statistics"""
     total_users = db.query(models.User).count()
     total_deposits = db.query(models.Deposit).count()
-    confirmed_deposits = db.query(models.Deposit).filter(models.Deposit.confirmed == True).count()
+    confirmed_deposits = db.query(models.Deposit).filter(models.Deposit.confirmed.is_(True)).count()
 
     return {
         "total_users": total_users,
